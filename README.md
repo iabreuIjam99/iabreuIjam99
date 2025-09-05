@@ -1,3 +1,4 @@
+![Header](./your-header-image-name.png)
 # 💫 About Me:
 Hi, I’m Isai Abreu—a Christian and follower of Jesus, passionate about continuous learning and growth. I’m an enthusiastic programmer with a dream of one day launching my own software company. I thrive on solving problems quietly behind the scenes (yes, I find joy in the backstage chaos 😄), and I genuinely enjoy being of service wherever I can. Whether it’s tech, teamwork, or community, I aim to contribute with purpose, humility, and heart.
 
